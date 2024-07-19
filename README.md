@@ -2,12 +2,12 @@
 
 ### Aka braindead-fr
 
-Welcome to my GitHub! I'm the guy who makes cool stuff with Unity while pretending to know what I'm doing. I drink coffee and occasionally write code.
+Welcome to my GitHub! I’m the guy who dabbles in web development while pretending I have everything under control. Fueled by coffee and the occasional burst of productivity.
 
 ## About Me
 
 - 🧠 Brain is mostly dead, but I make it work.
-- 🎮 Unity Developer – because reality is overrated.
+- 💻 Web Developer – turning caffeine into code.
 - ☕ Caffeine enthusiast and part-time procrastinator.
 
 ## Fun Facts
